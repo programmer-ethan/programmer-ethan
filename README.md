@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmer-ethan&show_icons=true&theme=radical)
+
+ [![Solved.ac. stats](http://mazassumnida.wtf/api/mini/generate_badge?boj=programmerethan)](https://solved.ac/programmerethan)
+
+ [![Solved.ac. stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=programmerethan)](https://solved.ac/programmerethan)
